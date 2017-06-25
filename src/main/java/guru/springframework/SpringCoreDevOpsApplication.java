@@ -10,7 +10,6 @@ public class SpringCoreDevOpsApplication {
 		System.out.println("Starting the Spring Boot Application..");
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
-		//this is a whitespace change test
-		// another test...
+		//Pramod Test CI build- Jenkins
 	}
 }
