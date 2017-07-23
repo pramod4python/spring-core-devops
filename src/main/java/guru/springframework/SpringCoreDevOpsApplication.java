@@ -10,6 +10,6 @@ public class SpringCoreDevOpsApplication {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
 		//Pramod Test CI build- Jenkins
-		//Test webhook
+		//Test jenkins web hoot from GitHub - 23-jul
 	}
 }
